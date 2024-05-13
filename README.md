@@ -1,4 +1,4 @@
-<h2>Report Check Load Status Prediction</h1>
+<h2>Report Check Loan Status Prediction</h1>
 
 <p>Predict credit history data results</p>
 
